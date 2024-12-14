@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on [Assess4all website](https://www.assess4all.com/)
+- 🔭 I'm currently working on [Spotify Gestures]([https://www.assess4all.com/](https://spotify-gestures.vercel.app/))
 - 🌱 I'm currently learning **Machine Learning, Web Frameworks, DevOps**
 - 💬 Ask me about **Next.js, React.js, Python, Vector Databases, RAG, TypeScript development**
 - 📫 How to reach me: [shrishk.work@gmail.com](mailto:shrishk.work@gmail.com)
