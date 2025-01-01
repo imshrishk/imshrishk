@@ -55,10 +55,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imshrishk&theme=dark" alt="imshrishk's GitHub streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imshrishk&show_icons=true&theme=dark" alt="imshrishk's GitHub stats"/>
 </p>
 
