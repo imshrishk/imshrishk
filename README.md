@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshrishk&layout=compact&theme=dark" alt="imshrishk's top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshrishk&layout=donut&theme=dark" alt="imshrishk's top languages"/>
 </p>
 
 ## 📈 GitHub Activity Graph
