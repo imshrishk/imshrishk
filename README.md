@@ -53,17 +53,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imshrishk&show_icons=true&theme=dark" alt="imshrishk's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshrishk&layout=donut&theme=dark" alt="imshrishk's top languages"/>
-</p>
-
-## 📈 GitHub Activity Graph
-
-[![Shrish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imshrishk&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imshrishk&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imshrishk&theme=dark"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imshrishk&theme=dark&border_color=303030&border_radius=4"  />
+</div>
 
 ## 🐍 Contribution Graph
 
