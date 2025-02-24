@@ -13,8 +13,6 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working on [ZenithMind](https://zenithmind.org/)
-- 🌱 I'm currently learning **Machine Learning, Web Frameworks, DevOps**
-- 💬 Ask me about **Next.js, React.js, Python, Vector Databases, RAG, TypeScript development**
 - 📫 How to reach me: [shrishk.work@gmail.com](mailto:shrishk.work@gmail.com)
 - 🚀 Always eager to collaborate on interesting projects
 
