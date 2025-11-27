@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on [ZenithMind](https://zenithmind.org/)
+- 🔭 I'm currently working on [SpotifyGestures](https://spotify-gestures.vercel.app/)
 - 📫 How to reach me: [shrishk.work@gmail.com](mailto:shrishk.work@gmail.com)
 - 🚀 Always eager to collaborate on interesting projects
 
